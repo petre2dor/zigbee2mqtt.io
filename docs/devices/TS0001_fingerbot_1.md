@@ -27,7 +27,11 @@ pageClass: device-page
 
 <!-- Notes END: Do not edit below this line -->
 
+## Manual
+Remove the battery cover and scan the QR code.
 
+## Pairing
+Remove the battery cover and hold the reset button for a couple of seconds until the LED starts blinking fast, indicating pairing mode.
 
 ## Options
 *[How to use device type specific configuration](../guide/configuration/devices-groups.md#specific-device-options)*
